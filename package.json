@@ -18,7 +18,7 @@
   },
   "author": "IP",
   "license": "MIT",
-  "repository": "giannisp/rails-react-boilerplate",
+  "repository": "Jabbs/rails-react-boilerplate",
   "private": true,
   "dependencies": {
     "@babel/polyfill": "^7.2.5",
