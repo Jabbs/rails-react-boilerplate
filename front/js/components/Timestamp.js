@@ -14,12 +14,12 @@ const Timestamp = () => {
   }, []);
 
   return (
-    <>
+    <div>
       <p>Timestamp: {timestamp}</p>
       <button type="submit" onClick={fetchTimestamp}>
         Reload Timestamp
       </button>
-    </>
+    </div>
   );
 };
 
